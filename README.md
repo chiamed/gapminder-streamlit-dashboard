@@ -20,14 +20,14 @@ The application is structured into five main sections accessible via the sidebar
 - **World Map:** An interactive choropleth map to explore the geographic distribution of life expectancy, GDP per capita, and population across the globe for specific years.
 - **Download:** A utility page to apply custom filters and export the resulting data as a `.csv` file.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies used
 - **Python 3.11**
 - **Streamlit:** For the web framework and interactive UI.
 - **Plotly Express:** For creating complex, interactive data visualizations.
 - **Pandas:** For data manipulation and filtering.
 - **Docker:** For containerization and easy deployment.
 
-## 🚀 Local Installation
+## 🚀 Local installation
 
 To run this project locally on your machine, follow these steps:
 
@@ -53,7 +53,7 @@ To run this project locally on your machine, follow these steps:
    streamlit run app.py
 ```
 
-## 🐳 Docker Installation
+## 🐳 Docker installation
 If you prefer to run the application using Docker without installing Python dependencies on your local machine, follow these steps:
 
 1. **Build the Docker image:**
