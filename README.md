@@ -4,18 +4,11 @@ An interactive web application built with [Streamlit](https://streamlit.io/) to 
 
 > **Note:** This project was developed as an assignment for the **Data Visualization Lab** course at University of Trento.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Local Installation](#local-installation)
-- [Docker Installation](#docker-installation)
-- [Author](#author)
-
-## 📖 Overview
+## 📖 Dashboard
 The goal of this dashboard is to provide a user-friendly interface to explore the Gapminder dataset. It allows users to visually analyze the relationship between GDP per capita, life expectancy, and population across different countries and continents spanning several decades (1952 - 2007).
 
-![Dashboard Preview]([Insert a link to a screenshot of your app here, e.g., ./images/preview.png])
+*Example of a dashboard page:*
+![Dashboard Preview](![alt text](image.png))
 
 ## ✨ Features
 The application is structured into five main sections accessible via the sidebar:
