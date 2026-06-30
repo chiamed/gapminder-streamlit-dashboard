@@ -9,7 +9,7 @@ The goal of this dashboard is to provide a user-friendly interface to explore th
 
 *Example of a dashboard page:*
 
-(![Dashboard Preview](image.png))
+![Dashboard Preview](image.png)
 
 ## ✨ Features
 The application is structured into five main sections accessible via the sidebar:
